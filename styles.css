@@ -3,5 +3,5 @@ body{
     padding: 0;
     font-family: 'Roboto', sans-serif;
     background-color: #f0f0f0;
-    color: color-mix(in srgb-linear, purple 50%, blue 50%);
+    color: pink
 }
