@@ -3,5 +3,6 @@ body{
     padding: 0;
     font-family: 'Roboto', sans-serif;
     background-color: #f0f0f0;
-    color: pink
+    color: pink;
+    text-align: center;
 }
